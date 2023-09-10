@@ -1,0 +1,153 @@
+body{
+	background-color: aliceblue;
+}
+#container{
+	padding: 10px;
+	width: 900px;;
+	margin-left: auto;
+	margin-right: auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#contact{
+	text-align: center;
+	float:center;
+	clear:both;
+}
+button{
+	color: white ;
+	background: transparent;
+	margin:5;
+	transform: translate(-50% -50%)
+
+}
+h3{
+	text-align: left;
+	float: left;
+	font-size: 22;
+	color: eee;
+	font-family: Maiandra GD ;
+}
+p{
+	font-weight:bold;
+}
+h1{
+	color: #06f1dd;
+	font-family: Forte;
+	margin-left: 15;
+	margin-top: 15;
+	clear: both;
+}
+#head{
+	height: 400;
+	background-image: url(img/DSOGs.jpg);
+	background-repeat: no-repeat;
+	background-size: center;
+	background-position: 100%;
+	background-attachment: fixed;
+	background-color: #06f1d2;
+}
+#navigation{
+	width: 250;
+	display: flex;
+	font-size: medium;
+	text-align: right;
+	float: right;
+	margin: 100;
+	margin-top: 0;
+	margin-right: 0;
+}
+li{
+	color: #06f1d2;
+}
+button{
+	border-radius: 15;
+}
+#intro{
+	background-image: url(img/.jpg);
+	background-color: black;
+	background-position: center;
+	text-align:left;
+	float: right;
+	width: 900px;
+}
+h6{
+	clear: both;
+	text-align: center;
+	color:	rgba(192, 4, 4, 0.932);
+	font-weight: bold;
+	font-size: 15;
+	margin: 0;
+	background-color: black;
+}
+#content{
+	background-color: black;
+	float:right;
+	width: 900px;
+}
+#here{
+	display: flex;
+	margin: 10;
+	font-size: 15;
+	color: #06f1d2;
+}
+h3{
+	margin-top: 0;
+	text-align: center;	
+	background-color: rgba(255, 3, 24, 0.932);
+}
+h4{
+	color: rgb(174, 0, 255);
+	font-weight: bold;
+	font-stretch: 15;
+}
+#price1{
+	width: 830px;
+	background-color: white;
+	margin: 10;
+	display:flex;
+	padding: 10;
+}
+#price2{
+	width: 830px;
+	background-color: white;
+	margin: 10;
+	display:flex;
+	padding: 10;
+}
+#price3{
+	width: 830px;
+	background-color: white;
+	margin: 10;
+	display:flex;
+	padding: 10;
+}
+#games{
+	overflow-y: scroll;
+	height: 175px;
+}
+#conclusion{
+	background-color: black;
+	padding: 0;
+	margin:0;
+	font-weight: bold;
+	clear: both;
+	width: 900px;
+	overflow: hidden;
+	text-indent: 15;
+	color: bisque;
+}
+#footer{
+	overflow: hidden;
+	clear: both;
+	text-align: right;
+	font-size: 25;
+	background-color:	#06f1d2;
+}
+h5{
+	text-align: right;
+	color: white;
+	font-size: 15;
+	margin: 0;
+}
